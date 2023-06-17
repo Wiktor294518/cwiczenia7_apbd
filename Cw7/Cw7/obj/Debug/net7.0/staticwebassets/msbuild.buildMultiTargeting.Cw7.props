@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cw7.props" />
+</Project>
